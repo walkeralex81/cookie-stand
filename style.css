@@ -1,0 +1,31 @@
+html,
+header {
+  background-color: rgb(236, 249, 250);
+  padding: 8rem;
+}
+
+body {
+  background-color: cadetblue;
+  color: white;
+  font-family: monospace;
+  text-align: center;
+}
+
+form {
+  width: 20%;
+  margin: 0 auto;
+}
+fieldset {
+  display: flex;
+  flex-direction: column;
+  border-color: white;
+}
+legend {
+  text-align: center;
+}
+input {
+  margin-bottom: 2rem;
+}
+label {
+  margin-top: 1rem;
+}
